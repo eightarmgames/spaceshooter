@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{5B812F8B-C85D-4E41-9DE6-DCAEA17F9E56}"
+	ProjectSection(SolutionItems) = preProject
+		GenerateSpriteAtlas.ps1 = GenerateSpriteAtlas.ps1
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nez.MG38", "Nez\Nez.Portable\Nez.MG38.csproj", "{704C2F8E-1C8B-4FE4-9E80-F7DA6E51C283}"
 EndProject
